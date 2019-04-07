@@ -1,0 +1,69 @@
+/*Selector {
+	Property: value;
+}*/
+
+* {
+	text-align: right;
+}
+
+body {
+	background-image: url(forest.jpg);
+	background-size: 90%;
+}
+
+p {
+	color: #E2F95F;
+	text-align: center;
+	border: 5px solid rgb(76, 103, 140);
+	cursor: pointer;
+	background: rgba(0, 0, 0, 0.4);
+	line-height: 50px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 200%;
+	font-family: 'Poiret One', cursive;
+}
+
+p {
+
+}
+
+img {
+	float: left;
+}
+
+footer {
+	clear: both;
+	text-align: center;
+}
+
+li {
+	font-size: 100px;
+	color: #E2F95F;
+	list-style: none;
+	display: inline-block;
+	
+}
+
+
+.webtext:first-child {
+	border: 5px solid #23BECC;
+}
+
+.active {
+	color: red;
+}
+
+#div1 {
+	background: rgba(0, 0, 0, 0.4);
+}
+
+#div2 {
+	background: rgba(0, 0, 0, 0.4);
+}
+h2 {
+	background: rgba(0, 0, 0, 0.4);
+	color: #E2F95F;
+	list-style: none;
+	border: 5px solid #23BECC
+}
